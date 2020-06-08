@@ -20,5 +20,8 @@ echo "HOSTNAME=master1.hadoop-test.com" >> /etc/sysconfig/network
 6. ./cloudera-manager-installer.bin
 
 
-#6.3.x document
+# 6.3.x document
 https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/cm_mc_managing_clusters.html#cmug_topic_6
+
+# Repo
+https://archive.cloudera.com/cdh6/
